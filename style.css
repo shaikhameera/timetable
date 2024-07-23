@@ -1,0 +1,13 @@
+table,tr,td {
+    border: 1px solid black;
+}
+
+.heading {
+    text-align: center;
+}
+
+.table {
+    text-align: center;
+    margin: 0 auto;
+    width: fit-content;
+}
